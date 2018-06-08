@@ -1,10 +1,18 @@
-package = 'pegasus'
-version = '0.1.0-0'
+-- This file was automatically generated for the LuaDist project.
 
+package = 'watcher'
+version = '0.2.0-0'
+
+-- LuaDist source
 source = {
-  url = 'git://github.com/evandrolg/lua-watcher.git',
-  tag = 'v0.0.1'
+  tag = "0.2.0-0",
+  url = "git://github.com/LuaDist-testing/watcher.git"
 }
+-- Original source
+-- source = {
+--   url = 'git://github.com/evandrolg/lua-watcher.git',
+--   tag = 'v0.0.2'
+-- }
 
 description = {
   summary = 'A Lua module to monitor files from a specific directory',

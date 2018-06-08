@@ -1,18 +1,10 @@
--- This file was automatically generated for the LuaDist project.
-
 package = 'watcher'
 version = '0.1.0-0'
 
--- LuaDist source
 source = {
-  tag = "0.1.0-0",
-  url = "git://github.com/LuaDist-testing/watcher.git"
+  url = 'git://github.com/evandrolg/lua-watcher.git',
+  tag = 'v0.0.1'
 }
--- Original source
--- source = {
---   url = 'git://github.com/evandrolg/lua-watcher.git',
---   tag = 'v0.0.1'
--- }
 
 description = {
   summary = 'A Lua module to monitor files from a specific directory',
